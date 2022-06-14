@@ -1,7 +1,7 @@
 ## Bah tchê, seja bem-vindo! Eu sou o Levy Marcelo G. Cunha 👋 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/levy-marcelo-g-cunha/)](https://www.linkedin.com/in/levy-marcelo-g-cunha/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/levy__marcelo/)](https://www.instagram.com/levy__marcelo/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=0e75b6&link=https://www.linkedin.com/in/levy-marcelo-g-cunha/)](https://www.linkedin.com/in/levy-marcelo-g-cunha/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=0e75b6&link=https://www.instagram.com/levy__marcelo/)](https://www.instagram.com/levy__marcelo/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LevyMarcelo&label=Profile%20views&color=0e75b6&style=flat" alt="LevyMarcelo" /> </p>
 
