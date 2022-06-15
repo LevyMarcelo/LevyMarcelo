@@ -9,7 +9,10 @@ Gaúcho, baterista aposentado :drum: , gosto de Heavy Metal :metal: e cerveja ar
 
 Sou QA Engineer com conhecimento e experiência em teste e qualidade de software, tendo como base a engenharia de software. Já trabalhei com testes de serviço (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como não funcional (performance). 
 
-Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento), GitHub, Espresso (Android) e XCTest (UI)(iOS).
+Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento) e GitHub.
+
+Ferramentas e linguagem que estudei recentemente:
+Espresso (Android), XCTest (UI)(iOS) e Swift.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos experimentos.  
 
