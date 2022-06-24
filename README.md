@@ -9,8 +9,8 @@ Sou QA Engineer com conhecimento e experiência em teste e qualidade de software
 
 Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento) e GitHub.
 
-Ferramentas e linguagens que estudei recentemente:
-Espresso (Android), XCTest (UI)(iOS), Swift, Playwright e TypeScript.
+Ferramentas que estudei recentemente:
+Espresso (Android), XCTest (UI)(iOS) e Playwright.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos experimentos.  
 
