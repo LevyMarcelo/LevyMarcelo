@@ -14,4 +14,4 @@ Espresso (Android), XCTest (UI)(iOS) e Playwright.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos experimentos.  
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMarcelo&hide=html&layout=compact&theme=buefy" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMarcelo)](https://github.com/LevyMarcelo?tab=repositories)
