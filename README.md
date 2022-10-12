@@ -7,11 +7,16 @@ Gaúcho, baterista aposentado :drum: , gosto de Heavy Metal :metal: e cerveja ar
 
 Sou QA Engineer com conhecimento e experiência em teste e qualidade de software, tendo como base a engenharia de software. Já trabalhei com testes de serviço (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como não funcional (performance). 
 
-Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento) e GitHub.
+Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento), GitHub, Espresso (Android) e XCTest (UI)(iOS).
 
-Ferramentas que estudei recentemente:
-Espresso (Android), XCTest (UI)(iOS) e Playwright.
+Ferramentas que estudei recentemente: Playwright.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos experimentos.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMarcelo)](https://github.com/LevyMarcelo?tab=repositories)
+
+---
+
+TCC da pós-graduação na UFRGS (automação de testes em aplicativos móveis): https://lume.ufrgs.br/handle/10183/231554
+
+Obs.: ao longo deste trabalho foram construídos os repositórios https://github.com/LevyMarcelo/appium-mobile-test, https://github.com/LevyMarcelo/espresso-mobile-test e https://github.com/LevyMarcelo/xctest-mobile-test.
