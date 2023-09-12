@@ -5,7 +5,7 @@
 
 Gaúcho, baterista aposentado :drum: , gosto de Heavy Metal :metal: e cerveja artesanal :beers:
 
-Sou QA Engineer com conhecimento e experiência a mais de 6 anos em teste e qualidade de software, tendo como base a engenharia de software. Já trabalhei com testes de serviço/API (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como automação de testes e não funcional (performance)
+Sou QA com conhecimento e experiência a mais de 6 anos em teste e qualidade de software e a mais de 5 anos em automação de testes, tendo como base a engenharia de software. Já trabalhei com testes de serviço/API (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como não funcional (performance).
 
 Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Selenide, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento), GitHub, Espresso (Android) e XCTest (UI)(iOS).
 
