@@ -9,9 +9,9 @@ Sou QA com conhecimento e experiência a mais de 9 anos em teste e qualidade de 
 
 Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Selenide, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento), GitHub, Espresso (Android), XCTest (UI)(iOS), Playwright e Cypress.
 
-Abaixo é possível visualizar as linguagens de programação mais utilizadas nos experimentos.  
+Abaixo é possível visualizar as linguagens de programação mais utilizadas nos repositórios.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMarcelo)](https://github.com/LevyMarcelo?tab=repositories)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=LevyMarcelo&langs_count=6)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
