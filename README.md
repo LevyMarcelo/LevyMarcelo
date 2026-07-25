@@ -5,9 +5,9 @@
 
 Gaúcho, baterista aposentado :drum: , gosto de Heavy Metal :metal: e cerveja artesanal :beers:
 
-Sou QA com conhecimento e experiência a mais de 9 anos em teste e qualidade de software e a mais de 8 anos em automação de testes, tendo como base a engenharia de software. Já trabalhei com testes de serviço/API (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como não funcional (performance).
+Sou QA com conhecimento e experiência há mais de 9 anos em teste e qualidade de software e há mais de 8 anos em automação de testes, tendo como base a engenharia de software. Já trabalhei com testes de serviço/API (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como não funcional (performance). Recentemente atuei com agentes de IA (AI Agents) customizados utilizando LLMs com skills específicas.
 
-Ferramentas: Selenium WebDriver, TestNG, JUnit, Gradle, Maven, Cucumber, Appium, Protractor, Jasmine, Jira, Postman, SoapUI, Swagger, JMeter, GitLab (Repository e CI/CD), Trello, Spek Framework, Jenkins, REST Assured, Selenide, Azure DevOps (wiki, boards, repos, pipelines e test plans), Kibana (monitoramento), GitHub, Espresso (Android), XCTest (UI)(iOS), Playwright e Cypress.
+Ferramentas: Selenium WebDriver, REST Assured, Appium, Cypress, Playwright, Espresso (Android), XCTest (UI do iOS), Selenide, Protractor, JUnit, TestNG, Maven, Gradle, Hamcrest, Cucumber, Jasmine, Spek Framework, Postman, SoapUI, Swagger, JMeter, Jenkins, GitLab (Repository e CI/CD), Azure DevOps (wiki, boards, repos, pipelines e test plans), GitHub, GitHub Copilot; AI Agents, LLMs, Kibana, Dynatrace, SonarQube, Pitest, Tekton, Jira e Confluence.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos repositórios.  
 
