@@ -5,9 +5,9 @@
 
 Gaúcho, baterista aposentado :drum: , gosto de Heavy Metal :metal: e cerveja artesanal :beers:
 
-Sou QA com conhecimento e experiência há mais de 9 anos em teste e qualidade de software e há mais de 8 anos em automação de testes, tendo como base a engenharia de software. Já trabalhei com testes de serviço/API (SOAP, REST e gRPC) e interface do usuário (web e mobile), bem como não funcional (performance). Recentemente atuei com agentes de IA (AI Agents) customizados utilizando LLMs com skills específicas.
+QA com mais de 9 anos de experiência em testes e qualidade de software, incluindo mais de 8 anos em automação de testes, com práticas de CI/CD e atuação em ambientes ágeis, tendo como base a engenharia de software. Ampla experiência com testes de serviços/APIs (SOAP, REST e gRPC) e interfaces de usuário (web e mobile), bem como testes não funcionais, incluindo performance. Mais recentemente, atuei com agentes de IA (AI Agents) customizados utilizando LLMs com skills específicas.
 
-Ferramentas: Selenium WebDriver, REST Assured, Appium, Cypress, Playwright, Espresso (Android), XCTest (UI do iOS), Selenide, Protractor, JUnit, TestNG, Maven, Gradle, Hamcrest, Cucumber, Jasmine, Spek Framework, Postman, SoapUI, Swagger, JMeter, Jenkins, GitLab (Repository e CI/CD), Azure DevOps (wiki, boards, repos, pipelines e test plans), GitHub, GitHub Copilot; AI Agents, LLMs, Kibana, Dynatrace, SonarQube, Pitest, Tekton, Jira e Confluence.
+Ferramentas: Selenium WebDriver, REST Assured, Appium, Cypress, Playwright, Espresso (Android), XCTest (UI do iOS), Selenide, Protractor, JUnit, TestNG, Maven, Gradle, Hamcrest, Cucumber, Jasmine, Spek Framework, Postman, SoapUI, Swagger, JMeter, Jenkins, GitLab (Repository e CI/CD), Azure DevOps (wiki, boards, repos, pipelines e test plans), GitHub, GitHub Copilot; AI Agents, LLMs, Kibana, Dynatrace, SonarQube, Pitest, Tekton, Qase, Jira e Confluence.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos repositórios.  
 
