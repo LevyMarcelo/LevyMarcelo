@@ -9,14 +9,14 @@ QA com mais de 9 anos de experiência em testes e qualidade de software, em ambi
 
 Tecnologias
 
-• Automação de testes: Selenium WebDriver, REST Assured, Appium, Cypress, Playwright, Espresso (Android), XCTest (UI do iOS), Selenide e Protractor.
-• Frameworks e bibliotecas: JUnit, TestNG, Cucumber, Jasmine, Spek Framework e Hamcrest.
-• Build e CI/CD: Maven, Gradle, GitHub, Jenkins, GitLab (Repository e CI/CD), Azure DevOps (wiki, boards, repos, pipelines e test plans) e Tekton.
-• Serviços/APIs: Postman, JMeter, SoapUI e Swagger.
-• Qualidade de código, observabilidade e gestão: SonarQube, Pitest, Kibana, Dynatrace, Jira, Confluence e Qase.
-• IA: Agentes de IA (AI Agents), LLMs e GitHub Copilot.
-• Banco de dados: SQL (PostgreSQL, Oracle SQL e SQL Server) e NoSQL (MongoDB).
-• IDEs/editores: IntelliJ IDEA, Visual Studio Code, Android Studio e Xcode.
+- Automação de testes: Selenium WebDriver, REST Assured, Appium, Cypress, Playwright, Espresso (Android), XCTest (UI do iOS), Selenide e Protractor.
+- Frameworks e bibliotecas: JUnit, TestNG, Cucumber, Jasmine, Spek Framework e Hamcrest.
+- Build e CI/CD: Maven, Gradle, GitHub, Jenkins, GitLab (Repository e CI/CD), Azure DevOps (wiki, boards, repos, pipelines e test plans) e Tekton.
+- Serviços/APIs: Postman, JMeter, SoapUI e Swagger.
+- Qualidade de código, observabilidade e gestão: SonarQube, Pitest, Kibana, Dynatrace, Jira, Confluence e Qase.
+- IA: Agentes de IA (AI Agents), LLMs e GitHub Copilot.
+- Banco de dados: SQL (PostgreSQL, Oracle SQL e SQL Server) e NoSQL (MongoDB).
+- IDEs/editores: IntelliJ IDEA, Visual Studio Code, Android Studio e Xcode.
 
 Abaixo é possível visualizar as linguagens de programação mais utilizadas nos repositórios.  
 
