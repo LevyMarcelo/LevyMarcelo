@@ -5,7 +5,7 @@
 
 Gaúcho, baterista aposentado :drum: e gosto de Heavy Metal :metal:
 
-QA com mais de 9 anos de experiência em testes e qualidade de software, em ambientes ágeis e mais de 8 anos em automação de testes, com CI/CD, tendo como base a engenharia de software. Atuação na evolução de processos de qualidade e prevenção de falhas. Ampla experiência com testes de serviços/APIs (SOAP, REST e gRPC) e interfaces de usuário (web e mobile), bem como testes não funcionais, incluindo performance. Graduado em Análise e Desenvolvimento de Sistemas pelo IFRS e pós-graduado em Engenharia de Software e Inovação pela UFRGS. Possuo as certificações CTFL e CTFL-AT pelo BSTQB/ISTQB. Mais recentemente, atuei com agentes de IA (AI Agents) customizados utilizando LLMs com skills específicas.
+Profissional com mais de 9 anos de experiência em testes e qualidade de software (QA), em ambientes ágeis e mais de 8 anos em automação de testes, com CI/CD, tendo como base a engenharia de software. Atuação na evolução de processos de qualidade e prevenção de falhas. Ampla experiência com testes de serviços/APIs (SOAP, REST e gRPC) e interfaces de usuário (web e mobile), bem como testes não funcionais, incluindo performance. Graduado em Análise e Desenvolvimento de Sistemas pelo IFRS e pós-graduado em Engenharia de Software e Inovação pela UFRGS. Possuo as certificações CTFL e CTFL-AT pelo BSTQB/ISTQB. Mais recentemente, atuei com agentes de IA (AI Agents) customizados utilizando LLMs com skills específicas.
 
 Tecnologias
 
