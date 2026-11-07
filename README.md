@@ -5,7 +5,7 @@
 
 Gaúcho, baterista aposentado :drum: e gosto de Heavy Metal :metal:
 
-Profissional com mais de 9 anos de experiência em testes e qualidade de software (QA), em ambientes ágeis e mais de 8 anos em automação de testes, com CI/CD, tendo como base a engenharia de software. Atuação na evolução de processos de qualidade e prevenção de falhas. Ampla experiência com testes de serviços/APIs (SOAP, REST e gRPC) e interfaces de usuário (web e mobile), bem como testes não funcionais, incluindo performance. Graduado em Análise e Desenvolvimento de Sistemas pelo IFRS e pós-graduado em Engenharia de Software e Inovação pela UFRGS. Possuo as certificações CTFL e CTFL-AT pelo BSTQB/ISTQB. Mais recentemente, atuei com agentes de IA (AI Agents) customizados utilizando LLMs com skills específicas.
+Profissional com mais de 9 anos de experiência em testes e qualidade de software (QA), em ambientes ágeis e mais de 8 anos em automação de testes, com CI/CD, tendo como base a engenharia de software. Atuação na evolução de processos de qualidade e prevenção de falhas. Ampla experiência com testes de serviços/APIs (SOAP, REST e gRPC) e interfaces de usuário (web e mobile), bem como testes não funcionais, incluindo performance. Graduado em Análise e Desenvolvimento de Sistemas pelo IFRS e pós-graduado em Engenharia de Software e Inovação pela UFRGS. Possuo as certificações CTFL e CTFL-AT pelo BSTQB/ISTQB. Mais recentemente, ampliei minha atuação com IA aplicada à qualidade por meio de ferramentas dedicadas e agentes de IA personalizados, utilizando LLMs, skills específicas e integrações via MCPs.
 
 Tecnologias
 
@@ -14,7 +14,7 @@ Tecnologias
 - Build e CI/CD: Maven, Gradle, GitHub, Jenkins, GitLab (Repository e CI/CD), Azure DevOps (wiki, boards, repos, pipelines e test plans) e Tekton.
 - Serviços/APIs: Postman, JMeter, SoapUI e Swagger.
 - Qualidade de código, observabilidade e gestão: SonarQube, Pitest, Kibana, Dynatrace, Jira, Confluence e Qase.
-- IA: Agentes de IA (AI Agents), LLMs e GitHub Copilot.
+- IA: Agentes de IA (AI Agents), LLMs, Skills, MCP (Model Context Protocol) e GitHub Copilot.
 - Banco de dados: SQL (PostgreSQL, Oracle SQL e SQL Server) e NoSQL (MongoDB).
 - IDEs/editores: IntelliJ IDEA, Visual Studio Code, Android Studio e Xcode.
 
